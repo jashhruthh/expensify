@@ -45,8 +45,11 @@ It helps users manage income, expenses, budgets, and visualize spending patterns
 ### 🔐 Login Page
 ![Login](https://github.com/jashronix/Expensify/blob/main/screenshots/Login.png)
 
-### 📊 Dashboard
-![Dashboard](https://github.com/jashronix/Expensify/blob/main/screenshots/Dashboard.png)
+### 📊 Dashboard(Dark Mode)
+![Dashboard](https://github.com/jashronix/Expensify/blob/main/screenshots/Dashboard-Dark.png)
+
+### 📊 Dashboard(Dark Mode)
+![Dashboard](https://github.com/jashronix/Expensify/blob/main/screenshots/Dashboard-Light.png)
 
 ### ➕ Add Transaction
 ![Add Transaction](https://github.com/jashronix/Expensify/blob/main/screenshots/Add-Transaction.png)
