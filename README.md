@@ -48,7 +48,7 @@ It helps users manage income, expenses, budgets, and visualize spending patterns
 ### 📊 Dashboard(Dark Mode)
 ![Dashboard](https://github.com/jashronix/Expensify/blob/main/screenshots/Dashboard-Dark.png)
 
-### 📊 Dashboard(Dark Mode)
+### 📊 Dashboard(Light Mode)
 ![Dashboard](https://github.com/jashronix/Expensify/blob/main/screenshots/Dashboard-Light.png)
 
 ### ➕ Add Transaction
